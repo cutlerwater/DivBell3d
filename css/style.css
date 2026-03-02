@@ -60,11 +60,11 @@ body{
 
 #couple{
     position: relative;
-    width: 100%;
-    height: auto;
-    margin-top: 10px;
+    width: 60%;
+    height: 60%^;
+    margin-top: 0px;
     z-index: 3;
-    animation: allAnimation 6s infinite ease-in;
+    animation: allAnimation 8s infinite ease-in;
 }
 
 #tree{
