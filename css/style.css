@@ -59,9 +59,9 @@ body{
 }
 
 #couple{
-    position: relative;
-    width: 60%;
-    height: 60%^;
+    position: absolute;
+    width: 50%;
+    height: 50%^;
     margin-top: 0px;
     z-index: 3;
     animation: allAnimation 8s infinite ease-in;
